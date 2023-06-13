@@ -49,5 +49,3 @@ To run NextChat locally and start messaging with your friends, follow these step
 ## Contributing
   
 Contributions to NextChat are welcome and encouraged! If you find any bugs, issues, or have suggestions for improvements, please open an issue or submit a pull request.
-
-Before contributing, please read our contribution guidelines to understand the process and code of conduct.
